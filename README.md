@@ -27,6 +27,7 @@
   * [pserver.sh](#pserversh)
 * [***服务器相关***](#服务器相关)
   * [bbr.sh](#bbrsh)
+  * [bbrplus.sh](#bbrplus)
   * [status.sh](#statussh)
   * [ban_iptables.sh](#ban_iptablessh)
   * [ssh_port.sh](#ssh_portsh)
@@ -343,7 +344,15 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 ```
 
 ---
+## bbrplus.sh
 
+- 常用的4合一脚本
+#### 下载安装
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/yzddahaoren/doubi/master/bbrplus.sh chmod +x bbrplus.sh && bash bbrplus.sh
+```
+
+---
 ## VPN相关
 
 ## ocserv.sh
